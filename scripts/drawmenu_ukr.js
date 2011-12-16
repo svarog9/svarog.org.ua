@@ -1,15 +1,15 @@
 function drawit()
 {
-document.write('&nbsp;&nbsp;<a class="menu" href="aboutus.htm">О нас</a>');
-document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="projects_rus.htm">Проекты</a>');
-document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="znaniya.htm">Знания</a>');
-document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="tibmed.htm">Тибетская медицина</a>');
-document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="tibastro.htm">Тибетская астрология</a>');
-document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="diagnostics.htm">Диагностика</a>');
-document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="healing.htm">Лечение</a>');
-//document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="gallery.htm">Фотогалерея</a>');
-document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="partners.htm">Партнёры</a>');
-document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="contact.htm">Контакты</a>');
-document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="index.htm">На главную</a>')
+document.write('&nbsp;&nbsp;<a class="menu" href="aboutus.htm">Рћ РЅР°СЃ</a>');
+document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="projects_rus.htm">РџСЂРѕРµРєС‚С‹</a>');
+document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="znaniya.htm">Р—РЅР°РЅРёСЏ</a>');
+document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="tibmed.htm">РўРёР±РµС‚СЃРєР°СЏ РјРµРґРёС†РёРЅР°</a>');
+document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="tibastro.htm">РўРёР±РµС‚СЃРєР°СЏ Р°СЃС‚СЂРѕР»РѕРіРёСЏ</a>');
+document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="diagnostics.htm">Р”РёР°РіРЅРѕСЃС‚РёРєР°</a>');
+document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="healing.htm">Р›РµС‡РµРЅРёРµ</a>');
+//document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="gallery.htm">Р¤РѕС‚РѕРіР°Р»РµСЂРµСЏ</a>');
+document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="partners.htm">РџР°СЂС‚РЅС‘СЂС‹</a>');
+document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="contact.htm">РљРѕРЅС‚Р°РєС‚С‹</a>');
+document.write('&nbsp;&nbsp;&nbsp;<a class="menu" href="index.htm">РќР° РіР»Р°РІРЅСѓСЋ</a>')
 }
 
