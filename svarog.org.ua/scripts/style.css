@@ -1,0 +1,120 @@
+body {font-family: arial;
+	font-size: 80%;
+	color: #777777}
+
+
+
+
+.border {border: 1px solid #cccccc
+	}
+
+.us {border: 1px solid #cccccc;
+     margin-right: 10px;
+     margin-bottom: 10px
+	}
+
+
+
+.title {font-family: courier;
+	font-size: 120%;
+	color: #10112D;
+	letter-spacing: 0.2em
+	}
+
+.titleshadow {font-family: courier;
+	font-size: 120%;
+	font-weight: bold;
+	color: #CDD3E1;
+	letter-spacing: 0.2em
+	}
+
+
+
+.bigtext {font-family: verdana, arial;
+	font-size: 90%;
+	color: #222222;
+	}
+
+.maintext {font-family: arial;
+	font-size: 70%;
+	color: #ffffff
+}
+
+.tdtext {padding: 5%;
+	font-size: 80%;
+	color: #cccccc}
+
+.news {font-family: verdana, arial;
+	font-size: 8pt;
+	color: #333333;
+	padding: 10px
+	
+}
+
+
+
+.tdtextall {padding-top: 25px;
+            padding-bottom: 25px;
+		padding-left: 23px;
+		padding-right: 25px;
+		border-left: 1px solid #000000;
+		border-right: 1px solid #000000;
+		font-family: arial;
+		font-size: 10pt;
+		color: #000000
+
+}
+
+.textpress {font-family: arial;
+	font-size: 10pt;
+	color: #ffffff;
+	padding: 5px
+}
+
+
+
+
+A:link {
+	COLOR: #cccccc; TEXT-DECORATION: none; font-size: 8pt; font-weight: bold
+
+}
+A:visited {
+	COLOR: #cccccc; TEXT-DECORATION: none; font-size: 8pt; font-weight: bold
+
+}
+A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none; font-size: 8pt; font-weight: bold
+
+}
+
+
+
+
+A.menu:link {color: #ffffff; text-decoration: none}       
+A.menu:hover {color: #cccccc; text-decoration: none}
+A.menu:visited {color: #ffffff; text-decoration: none}
+
+A.press:link {
+	COLOR: #00ff33; TEXT-DECORATION: none; font-weight: bold
+}
+A.press:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none; font-weight: bold
+}
+A.press:hover {
+	COLOR: #ffff00; TEXT-DECORATION: none; font-weight: bold
+}
+
+
+A.mailto:link {
+	COLOR: #cccccc; TEXT-DECORATION: none; font-size: 7pt; font-weight: normal
+
+}
+A.mailto:visited {
+	COLOR: #cccccc; TEXT-DECORATION: none; font-size: 7pt; font-weight: normal
+
+}
+A.mailto:hover {
+	COLOR: #999999; TEXT-DECORATION: none; font-size: 7pt; font-weight: normal
+
+}
+
